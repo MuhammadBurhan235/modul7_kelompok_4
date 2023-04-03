@@ -1,0 +1,15 @@
+{
+   "firstName": "Chandra",
+   "lastName": "Samudra",
+   "gender": "male",
+   "age": 19,
+   "address": {
+       "streetAddress": "Cikalong",
+       "city": "Karawang",
+       "state": "West Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CII3B4", "name": "Pemrograman Berorientasi Objek" }
+   ]
+}

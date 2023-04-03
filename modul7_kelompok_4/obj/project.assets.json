@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\modul7_kelompok_4\\modul7_kelompok_4\\modul7_kelompok_4.csproj",
+      "projectUniqueName": "D:\\Cha\\modul7_kelompok_4\\modul7_kelompok_4\\modul7_kelompok_4.csproj",
       "projectName": "modul7_kelompok_4",
-      "projectPath": "D:\\modul7_kelompok_4\\modul7_kelompok_4\\modul7_kelompok_4.csproj",
+      "projectPath": "D:\\Cha\\modul7_kelompok_4\\modul7_kelompok_4\\modul7_kelompok_4.csproj",
       "packagesPath": "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\",
-      "outputPath": "D:\\modul7_kelompok_4\\modul7_kelompok_4\\obj\\",
+      "outputPath": "D:\\Cha\\modul7_kelompok_4\\modul7_kelompok_4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PRAKTIKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
