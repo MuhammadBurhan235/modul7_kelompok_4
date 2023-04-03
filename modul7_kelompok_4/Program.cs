@@ -2,13 +2,14 @@
 
 namespace modul7_kelompok_4
 {
-    class Program
+    class program
     {
-        static void Main(string[] args)
+        static void Main(String[] args)
         {
-            DataMahasiswa_1302213109 data = new DataMahasiswa_1302213109();
+            DataMahasiswa_1302210100_Hasnan data = new DataMahasiswa_1302210100_Hasnan();
             data.ReadJSON();
             Console.ReadKey();
         }
     }
 }
+
